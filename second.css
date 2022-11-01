@@ -1,0 +1,18 @@
+#main {
+  width: 100vw;
+  height: 100vh;
+  background-color: #001c3f;
+}
+
+#home2 {
+  width: 750px;
+  margin-top: 8%;
+}
+
+#comment h3 {
+  color: skyblue;
+}
+#comment span {
+  color: grey;
+  font-size: 18px;
+}
